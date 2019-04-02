@@ -41,4 +41,4 @@ This dataset provides examples of properly-formatted input images and accompanyi
 - `CanonEOS60D`. is a directory of input files using a DSLR camera from Canon, model name EOS 60D.
 - `CanonEOS60D_results.` is the directory of results created from running [amy-tabb/camera-as-scanner](https://github.com/amy-tabb/camera-as-scanner) on `CanonEOS60D`.
 
-See the `Write directory format` section of [amy-tabb/camera-as-scanner](https://github.com/amy-tabb/camera-as-scanner)'s README for details of all of the files; briefly for this example, `warped_ORIGINALFILENAME.jpg` is the original image, transformed such that 10 pixels corresponds to 1 millimeter.
+See the `Write directory format` section of [amy-tabb/camera-as-scanner](https://github.com/amy-tabb/camera-as-scanner)'s README for details of all of the files; briefly for this example, `warped_ORIGINALFILENAME.jpg` is the original image, transformed such that 10 pixels corresponds to 1 millimeter on the two dimensional plane of the calibration pattern.
