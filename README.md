@@ -42,6 +42,13 @@ Code release citation:
 
 If you use this code in project that results in a publication, please cite at a minimum the paper above.  Otherwise, there are no restrictions in your use of this code.  However, no guarantees are expressed or implied.
 
+# Related repositories
+
+[amy-tabb/camera-as-scanner](https://github.com/amy-tabb/camera-as-scanner)
+
+[amy-tabb/aruco-pattern-write](https://github.com/amy-tabb/aruco-pattern-write)
+
+
 # Underlying ideas
 
 Computer vision explanation: The code in [amy-tabb/camera-as-scanner](https://github.com/amy-tabb/camera-as-scanner) takes an image of an object on top of an aruco calibration pattern, calibrates the camera using the detected aruco information as well as EXIF tag information, and undistorts and computes the homography from the current location of the aruco calibration pattern in the image to its location in physical space.  Then the image is warped to match the coordinate system of the aruco coordinate system, scaled by a user-selected parameter. 
