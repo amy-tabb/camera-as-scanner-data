@@ -11,10 +11,21 @@ Another companion repository is [amy-tabb/aruco-pattern-write](https://github.co
 
 # How and when to cite this work
 
-This README file is to accompany code produced by Amy Tabb as a companion to a paper.  The paper provides a full protocol to use the code:
+This README file is to accompany code produced by Amy Tabb as a companion to a paper. The paper, currently in pre-print, provides a full protocol to use the code:
 
-To be announced.  Email for a draft.
+[Using cameras for precise measurement of two-dimensional plant features (arXiv)](https://arxiv.org/abs/1904.13187)
 
+Paper citation:
+```
+@article{tabb_using_2019,
+	title = {Using cameras for precise measurement of two-dimensional plant features},
+	url = {https://arxiv.org/abs/1904.13187v1},
+	urldate = {2019-05-02},
+	author = {Tabb, Amy and Holguín, Germán A. and Naegele, Rachel},
+	month = apr,
+	year = {2019},
+}
+```
 
 Code release citation:
 ```
