@@ -7,6 +7,7 @@ Example data to use with comparion repository, [amy-tabb/camera-as-scanner](http
 Another companion repository is [amy-tabb/aruco-pattern-write](https://github.com/amy-tabb/aruco-pattern-write)
 
 ~March 2019.  
+
 [![DOI](https://zenodo.org/badge/176333990.svg)](https://zenodo.org/badge/latestdoi/176333990)
 
 
